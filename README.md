@@ -1,4 +1,4 @@
-# InGESAN-GEM
+# InGESAN-GEM (*In Silico* Gene Essentiality ANalysis of GEnome-scale Models)
 Matlab implementation for validate gene essentiality data of *Mycobacterium tuberculosis* Genome-scale models with transposon sequencing data. This script implementation was published in:
 * López-Agudelo, V. A., Mendum, T. A., Laing, E., Wu, H., Baena, A., Barrera, L. F., ... & Rios-Estepa, R. (2020). A systematic evaluation of Mycobacterium tuberculosis Genome-Scale Metabolic Networks. PLoS computational biology, 16(6), e1007533.(https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007533)
 
